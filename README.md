@@ -1,14 +1,7 @@
-# The Local Wash — Interactive Demo
+THE LOCAL WASH — INTERACTIVE DESIGN CONCEPT V4
 
-Interactive website prototype, **not an official Local Wash website**. Offers, forms, chatbot and administrative features are demonstration-only; no live payments or customer data are processed. This is not a Wix Studio deployment.
+Open index.html. This is the approved integrated hero artwork: laundry and car wash blended behind the large chrome water-drop logo, not three panels. The graphic was cropped to remove its illustrative navigation so that the actual website navigation remains clickable.
 
-## Publish Version 4
+Click the Laundry and Car Wash buttons or the six service categories embedded in the hero artwork; transparent accessible links overlay those areas. On narrow mobile screens, accessible live buttons appear below the artwork. All seven website pages, owner dashboard, promotions, local demo forms and FAQ chat remain from V3.
 
-1. Download `The-Local-Wash-Interactive-Mockup-v4.zip` from the ChatGPT conversation and extract it.
-2. Open its `The-Local-Wash-v4` folder.
-3. In this repository click **Add file → Upload files** and upload all files and the `assets` folder from inside `The-Local-Wash-v4`, preserving their relative paths at the repository root. Replace this README if prompted, or retain this README; `index.html`, `app.js`, `styles.css` and `assets/` must all be at the root.
-4. Commit the upload to `main`.
-5. In **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
-6. Visit `https://tomt-goldcoast.github.io/The-Local-Wash-Demo/` once GitHub Pages finishes deploying.
-
-The prototype is concept artwork based on client-facing materials and must not be represented as the business's approved live site.
+This is a standalone HTML/CSS/JS prototype, NOT Wix Studio. All promotional data is local to the browser, no actual payment, authentication, emails or AI are connected. Illustration requires business approval before production use.
